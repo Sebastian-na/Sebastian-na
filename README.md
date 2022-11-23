@@ -3,6 +3,6 @@ I am a web developer who specializes in creating beautiful and functional websit
 ###### Visit my website [sebitas.dev](https://sebitas.dev)
 
 ## 📫 How to reach me ...
-- Compose an email to sebis.dev@gmail.com
+- Compose an email to sebitas.dev@gmail.com
 - DM me on [Twitter](https://twitter.com/Sebastian_naits)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/sebastian-casta%C3%B1eda-33490820b/)
